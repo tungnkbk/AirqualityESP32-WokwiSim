@@ -17,7 +17,7 @@ Key Features:
 
   System design and logic validated through simulation
 
-Technologies
+Technologies:
 
   ESP32
 
